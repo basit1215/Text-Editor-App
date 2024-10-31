@@ -26,5 +26,3 @@ function changeTextColor(){
     const newColor = prompt("Enter text color");
     input.style.color= newColor;
 }
-
- 
